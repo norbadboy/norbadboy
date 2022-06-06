@@ -27,8 +27,8 @@
 ### :man_technologist: About Me:
 I am a Front-end Developer from Norway. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badgeLinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thong-trong-ho-bb2100b4)
+- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thong-trong-ho-bb2100b4)
 
 <!--
 **norbadboy/norbadboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

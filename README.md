@@ -30,6 +30,9 @@ I am a Front-end Developer from Norway. <img src="https://media.giphy.com/media/
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thong-trong-ho-bb2100b4)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norbadboy)](https://github.com/norbadboy/github-readme-stats)
+
+
 <!--
 **norbadboy/norbadboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

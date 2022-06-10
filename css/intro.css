@@ -3,28 +3,48 @@
 main {
   display: flex;
   height: 100vh;
+  max-width: 1440px;
+  padding: 0 40px 0 40px;
+  overflow-y: hidden;
+}
+h1 {
+  font-size: 50px;
 }
 
-.left-section {
+.left--section {
   display: flex;
-  flex: 1;
+  flex: 0.6;
   justify-content: center;
 }
-.right-section {
+.right--section {
   flex: 1;
   display: flex;
   flex-direction: column;
-  background-color: pink;
   justify-content: center;
 }
-/* image */
+.heading--container,
+.subheading--container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding-left: 100px;
+}
+.heading--container {
+  margin-bottom: 30px;
+}
+.subheading--container h3 {
+  margin-top: 15px;
+}
 
-.image-container img {
+/* image */
+.image--container img {
   width: 100%;
   height: 100%;
 }
 
 /* button */
-.button-container button {
+.button--container button {
   padding: 5px;
+  margin-top: 20px;
 }

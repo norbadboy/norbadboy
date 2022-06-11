@@ -1,7 +1,5 @@
 const buttonSeeMore = document.getElementById("button--intro");
 
 buttonSeeMore.onclick = function () {
-  location.href = "/html/home.html";
+  location.href = "/portfolio/html/home.html";
 };
-
-

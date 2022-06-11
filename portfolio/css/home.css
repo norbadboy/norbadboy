@@ -1,4 +1,4 @@
-@import url("style.css");
+@import url("/portfolio/css/style.css");
 
 h1 {
   margin-bottom: 25px;
@@ -12,7 +12,7 @@ button {
   font-size: 40px;
 }
 button:hover {
-  color: var(--dark-green);
+  color: var(--dark-pink);
 }
 /* cards section */
 .cards--template {
@@ -35,7 +35,7 @@ button:hover {
   object-fit: contain;
 }
 .card:hover {
-  box-shadow: 0 8px 16px 0 var(--dark-green);
+  box-shadow: 0 8px 16px 0 var(--dark-pink);
 }
 .card-content {
   margin-top: 20px;

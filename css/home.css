@@ -12,7 +12,7 @@ button {
   font-size: 40px;
 }
 button:hover {
-  color: var(--pink);
+  color: var(--dark-green);
 }
 /* cards section */
 .cards--template {
@@ -21,7 +21,7 @@ button:hover {
 .cards--container {
   display: grid;
   grid-template-columns: auto auto;
-  grid-gap: 100px;
+  grid-gap: 90px;
 }
 .card {
   box-shadow: 0 4px 8px 0 var(--light-black);
@@ -35,7 +35,7 @@ button:hover {
   object-fit: contain;
 }
 .card:hover {
-  box-shadow: 0 8px 16px 0 var(--pink);
+  box-shadow: 0 8px 16px 0 var(--dark-green);
 }
 .card-content {
   margin-top: 20px;

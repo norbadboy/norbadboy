@@ -3,7 +3,7 @@
   padding: 0px;
 }
 :root {
-  --pink: rgba(234, 0, 255, 0.2);
+  --dark-green: rgb(0, 93, 74);
   --light-black: rgba(0, 0, 0, 0.3);
 }
 main {

@@ -68,7 +68,7 @@ button {
   color: black;
   font-size: 25px;
 }
-.fa-globe{
+.fa-globe {
   font-size: 24px;
 }
 .icon--wrapper .icon--container:hover .icon--name,
@@ -83,7 +83,7 @@ button {
 }
 .cards--container {
   display: grid;
-  grid-template-columns: auto auto;
+  grid-template-columns: 1fr 1fr;
   grid-gap: 90px;
 }
 .card {
@@ -113,4 +113,20 @@ button {
 }
 .link--container {
   margin-top: 10px;
+}
+
+/* mobile */
+@media screen and (max-width: 1065px) {
+  .cards--template {
+    padding: 0px;
+  }
+  .cards--container {
+    grid-gap: 50px;
+  }
+}
+
+@media screen and (max-width: 805px) {
+  .cards--container {
+    grid-template-columns: 1fr;
+  }
 }

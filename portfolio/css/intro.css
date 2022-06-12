@@ -5,6 +5,7 @@ main {
   height: 100vh;
   max-width: 1440px;
   overflow-y: hidden;
+  padding-bottom: 0;
 }
 h1 {
   font-size: 47px;

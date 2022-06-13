@@ -24,13 +24,23 @@
 
 ---
 
-### :man_technologist: About Me:
+### 👨🏻‍💻 About Me:
 I am a Front-end Developer from Norway. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thong-trong-ho-bb2100b4)
+---
+### 🛠 Language and Tools:
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 
+---
+### 🔥 My Stats: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norbadboy)](https://github.com/norbadboy/github-readme-stats)
+<!--Source: https://github.com/anuraghazra/github-readme-stats -->
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=norbadboy&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 <!--

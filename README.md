@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/github/followers/norbadboy?style=social" alt="GitHub Badge"/>
 </div>
 
-<h1 align="center">Hi there 👋</h1> 
+<h1 align="center">👋 Hi there, I'm Thong Ho</h1> 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
 </div>
@@ -25,7 +25,7 @@
 ---
 
 ### 👨🏻‍💻 About Me:
-I am a Front-end Developer from Norway. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Front-end developer student at Noroff. I'm from Norway. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thong-trong-ho-bb2100b4)
@@ -34,6 +34,7 @@ I am a Front-end Developer from Norway. <img src="https://media.giphy.com/media/
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 
 ---
 ### 🔥 My Stats: 

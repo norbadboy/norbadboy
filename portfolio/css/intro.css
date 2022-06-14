@@ -113,15 +113,53 @@ h1 {
   h3 {
     font-size: 19px;
   }
-  
 }
 
 @media screen and (max-width: 635px) {
+  main {
+    flex-direction: column;
+  }
   h1 {
-    font-size: 27px;
+    font-size: 25px;
   }
   h3 {
-    font-size: 17px;
+    font-size: 16px;
+    max-width: 365px;
   }
-  
+  .heading--container,
+  .subheading--container {
+    padding-left: 0px;
+  }
+  .heading--container {
+    margin-bottom: 0px;
+  }
+  .left--section {
+    padding-right: 0;
+  }
+  .right--section {
+    border-left: none;
+    align-self: center;
+  }
+  .image--container {
+    padding-top: 30px;
+  }
+  .image--container img {
+    height: 310px;
+  }
+  .button--container button {
+    padding: 6px 10px;
+    margin-top: 20px;
+    letter-spacing: 0.05rem;
+  }
+}
+@media screen and (max-width: 405px) {
+  main {
+    padding: 0 20px 0 20px;
+  }
+  h1 {
+    font-size: 22px;
+  }
+  h3 {
+    font-size: 13px;
+  }
 }

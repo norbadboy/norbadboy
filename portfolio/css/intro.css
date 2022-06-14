@@ -50,6 +50,7 @@ h1 {
   width: 100%;
   height: auto;
   border-radius: 5px;
+  object-fit: cover;
 }
 
 /* button */
@@ -150,9 +151,10 @@ h1 {
     height: 340px;
   }
   .button--container button {
-    padding: 6px 10px;
+    padding: 7px 12px;
     margin-top: 20px;
     letter-spacing: 0.05rem;
+    font-size: 14px;
   }
 }
 @media screen and (max-width: 345px) {

@@ -26,6 +26,7 @@
 
 ### 👨🏻‍💻 About Me:
 I´m a Front-end developer student at Noroff, class 2021-2023. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
 I'm from Norway 🇳🇴
 
 - 🧑🏻‍💼 I'm currently working as a pharmacist, but my passion for coding tells me to be a developer.

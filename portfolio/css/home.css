@@ -85,7 +85,6 @@ button {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-gap: 90px;
-  
 }
 .card {
   box-shadow: 0 4px 8px 0 var(--light-black);
@@ -127,6 +126,12 @@ button {
 }
 
 @media screen and (max-width: 835px) {
+  h3 {
+    font-size: 26px;
+  }
+  p {
+    font-size: 19px;
+  }
   .cards--container {
     grid-template-columns: 1fr;
   }

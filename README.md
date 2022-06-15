@@ -32,6 +32,7 @@ I'm from Norway 🇳🇴
 - 🧑🏻‍💼 I'm currently working as a pharmacist, but my passion for coding tells me to be a developer.
 - 🌱 I’m currently learning design, HTML, CSS and JavaScript at Noroff.
 - 💡 Fun fact: I have a master degree in Pharmacy and 1 year of higschool for real estate. 
+- 💼 Visit my portfolio to see more of my works: https://thongth.netlify.app
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thong-trong-ho-bb2100b4)
 ---
 ### 🛠 Language and Tools:
